@@ -146,3 +146,6 @@ must be given in order if specified:
     value to precision significant digits; this is the default for
     floats and can be omitted)
   - `%` for presenting floats as percentages, complete with percent sign
+
+See https://docs.python.org/3/library/string.html#format-string-syntax for a full treatment of what you can do with
+format specifications
